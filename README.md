@@ -15,18 +15,28 @@
   />
 </p>
 
-- 🔭 I’m currently working on
-[Fiverr.com](https://www.fiverr.com/orders/FO624F1D5C2C6/) - 🌱 I’m currently
-learning **Next.js** - 👯 I’m looking to collaborate on [mern stack web
-developement](https://pride-zentralschweiz.ch/) - 👨‍💻 All of my projects are
-available at
-[https://www.fiverr.com/web_dev46138](https://www.fiverr.com/web_dev46138) - 📝
-I regularly write articles on
-[https://www.fiverr.com/web_dev46138](https://www.fiverr.com/web_dev46138) - 💬
-Ask me about **Mern Stack , Data scientist in python and wordpress** - 📫 How to
-reach me **mrbattary46138@gmail.com** - 📄 Know about my experiences
-[https://www.fiverr.com/web_dev46138](https://www.fiverr.com/web_dev46138) - ⚡
-Fun fact **Designer dream is a developer's nightmere !**
+<ul>
+    <li>🔭 I’m currently working on
+        <a href="https://www.fiverr.com/orders/FO624F1D5C2C6/" rel="nofollow">Fiverr.com</a>
+    </li>
+    <li>🌱 I’m currently learning <strong>Next.js</strong></li>
+    <li>👯 I’m looking to collaborate on
+        <a href="https://pride-zentralschweiz.ch/" rel="nofollow">mern stack web development</a>
+    </li>
+    <li>👨‍💻 All of my projects are available at
+        <a href="https://www.fiverr.com/web_dev46138" rel="nofollow">https://www.fiverr.com/web_dev46138</a>
+    </li>
+    <li>📝 I regularly write articles on
+        <a href="https://www.fiverr.com/web_dev46138" rel="nofollow">https://www.fiverr.com/web_dev46138</a>
+    </li>
+    <li>💬 Ask me about <strong>Mern Stack, Data scientist in Python, and Wordpress</strong></li>
+    <li>📫 How to reach me <strong><a href="mailto:mrbattary46138@gmail.com">mrbattary46138@gmail.com</a></strong></li>
+    <li>📄 Know about my experiences
+        <a href="https://www.fiverr.com/web_dev46138" rel="nofollow">https://www.fiverr.com/web_dev46138</a>
+    </li>
+    <li>⚡ Fun fact <strong>Designer dream is a developer's nightmare!</strong></li>
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
