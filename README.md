@@ -1,6 +1,6 @@
 ![logo](https://github.com/wajahat2022/Wajahat-Hussain/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm I am Wajahat Hussain</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate fullstack developer from Pakistan</h3>
 
 <img
   align="right"
@@ -16,27 +16,53 @@
 </p>
 
 <ul>
-    <li>🔭 I’m currently working on
-        <a href="https://www.fiverr.com/orders/FO624F1D5C2C6/" rel="nofollow">Fiverr.com</a>
-    </li>
-    <li>🌱 I’m currently learning <strong>Next.js</strong></li>
-    <li>👯 I’m looking to collaborate on
-        <a href="https://pride-zentralschweiz.ch/" rel="nofollow">mern stack web development</a>
-    </li>
-    <li>👨‍💻 All of my projects are available at
-        <a href="https://www.fiverr.com/web_dev46138" rel="nofollow">https://www.fiverr.com/web_dev46138</a>
-    </li>
-    <li>📝 I regularly write articles on
-        <a href="https://www.fiverr.com/web_dev46138" rel="nofollow">https://www.fiverr.com/web_dev46138</a>
-    </li>
-    <li>💬 Ask me about <strong>Mern Stack, Data scientist in Python, and Wordpress</strong></li>
-    <li>📫 How to reach me <strong><a href="mailto:mrbattary46138@gmail.com">mrbattary46138@gmail.com</a></strong></li>
-    <li>📄 Know about my experiences
-        <a href="https://www.fiverr.com/web_dev46138" rel="nofollow">https://www.fiverr.com/web_dev46138</a>
-    </li>
-    <li>⚡ Fun fact <strong>Designer dream is a developer's nightmare!</strong></li>
+  <li>
+    🔭 I’m currently working on
+    <a href="https://www.fiverr.com/orders/FO624F1D5C2C6/" rel="nofollow"
+      >Fiverr.com</a
+    >
+  </li>
+  <li>🌱 I’m currently learning <strong>Next.js</strong></li>
+  <li>
+    👯 I’m looking to collaborate on
+    <a href="https://pride-zentralschweiz.ch/" rel="nofollow"
+      >mern stack web development</a
+    >
+  </li>
+  <li>
+    👨‍💻 All of my projects are available at
+    <a href="https://www.fiverr.com/web_dev46138" rel="nofollow"
+      >https://www.fiverr.com/web_dev46138</a
+    >
+  </li>
+  <li>
+    📝 I regularly write articles on
+    <a href="https://www.fiverr.com/web_dev46138" rel="nofollow"
+      >https://www.fiverr.com/web_dev46138</a
+    >
+  </li>
+  <li>
+    💬 Ask me about
+    <strong>Mern Stack, Data scientist in Python, and Wordpress</strong>
+  </li>
+  <li>
+    📫 How to reach me
+    <strong
+      ><a href="mailto:mrbattary46138@gmail.com"
+        >mrbattary46138@gmail.com</a
+      ></strong
+    >
+  </li>
+  <li>
+    📄 Know about my experiences
+    <a href="https://www.fiverr.com/web_dev46138" rel="nofollow"
+      >https://www.fiverr.com/web_dev46138</a
+    >
+  </li>
+  <li>
+    ⚡ Fun fact <strong>Designer dream is a developer's nightmare!</strong>
+  </li>
 </ul>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
