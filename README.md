@@ -1,6 +1,6 @@
 ![logo](https://github.com/wajahat2022/Wajahat-Hussain/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm I am Wajahat Hussain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <img
   align="right"
