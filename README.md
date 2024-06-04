@@ -1,47 +1,9 @@
 ![logo](https://github.com/wajahat2022/Wajahat-Hussain/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
-<h1 align="center">Hi 👋, I'm I am Wajahat Hussain</h1>
+<h1 align="center">Hi 👋, I'm I am Wajahat Hussain</h1>                                        
+  
+  
 
-<script>
-  // Get the element
-  const title = document.querySelector("h1");
 
-  // Initial text
-  let initialText = "Hi 👋, I'm I am Wajahat Hussain";
-
-  // New text to be typed
-  let newText = "A full stack web developer";
-
-  // Function to type the text
-  function typeText(text) {
-    let i = 0;
-    let interval = setInterval(() => {
-      title.innerHTML += text[i];
-      i++;
-      if (i >= text.length) {
-        clearInterval(interval);
-      }
-    }, 50); // adjust the speed of typing here
-  }
-
-  // Remove the initial text from right to left
-  function removeText(text) {
-    let i = text.length - 1;
-    let interval = setInterval(() => {
-      title.innerHTML = text.slice(0, i);
-      i--;
-      if (i < 0) {
-        clearInterval(interval);
-        title.innerHTML = "";
-      }
-    }, 50); // adjust the speed of removal here
-  }
-
-  // Run the effects
-  removeText(initialText);
-  setTimeout(() => {
-    typeText(newText);
-  }, 2000); // adjust the delay between effects here
-</script>                    
   
 <div id="description"></div>                    
 
@@ -449,47 +411,7 @@
   />
 </p>
 
-<script>
-  // Get the elements                    
+                    
+                      
                       
   
-const title = document.getElementById("title");
-const description = document.getElementById("description");
-
-// Initial text
-let initialText = "Hi 👋, I'm I am Wajahat Hussain";
-
-// New text to be typed
-let newText = "A full stack web developer";
-
-// Function to type the text
-function typeText(element, text) {
-  let i = 0;
-  let interval = setInterval(() => {
-    element.innerHTML += text[i];
-    i++;
-    if (i >= text.length) {
-      clearInterval(interval);
-    }
-  }, 50); // adjust the speed of typing here
-}
-
-// Remove the initial text from right to left
-function removeText(element, text) {
-  let i = text.length - 1;
-  let interval = setInterval(() => {
-    element.innerHTML = text.slice(0, i);
-    i--;
-    if (i < 0) {
-      clearInterval(interval);
-      element.innerHTML = "";
-    }
-  }, 50); // adjust the speed of removal here
-}
-
-// Run the effects
-removeText(title, initialText);
-setTimeout(() => {
-  typeText(description, newText);
-}, 2000); // adjust the delay between effects here
-</script>
