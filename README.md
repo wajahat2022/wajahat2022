@@ -1,5 +1,9 @@
 ![logo](https://github.com/wajahat2022/Wajahat-Hussain/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%2C+I'm+I+am+Wajahat+Hussain+Majid;A+full+stack+Web+Developer;In+MERN+stack+%2C+wordpress+%2C+html+css+;or+any+technology+stack+of+your+choice" alt="Typing SVG" /></a>                                                          
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%2C+I'm+I+am+Wajahat+Hussain+Majid;A+full+stack+Web+Developer;In+MERN+stack+%2C+wordpress+%2C+html+css+;or+in+any+technology+stack+." alt="Typing SVG" /></a>                                                                                                          
+  
+  
+  
+  
   
   
   
